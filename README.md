@@ -2,7 +2,7 @@
 
 Notebook for 19 January PyData Singapore Meetup
 
-View the [talk](http://www.meetup.com/members/37553102/).
+View the [talk](https://www.youtube.com/watch?v=RETxgJcXBAY).
 
 Python has become an increasingly important tool in the domain of quantitative and algorithmic trading and research. Users range from senior quantitative analysts and researchers pricing complex derivatives using numerical techniques all the way to the retail trader just getting started. This talk will cover the basics of pricing "plain vanilla" options on listed equities and dive into some analysis of the unobserved feature of listed equity options known as implied volatility.
 
